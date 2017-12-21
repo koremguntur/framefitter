@@ -3,7 +3,7 @@
 	 */
 	//Default width is 300x300
 	var saveScale = 2;
-	var maxScale = 5;
+	var maxScale = 5.0;
 	
 	/**
 	 * Function variables
