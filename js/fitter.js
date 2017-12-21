@@ -2,8 +2,8 @@
 	 * Canvas Settings
 	 */
 	//Default width is 300x300
-	var saveScale = 2;
-	var maxScale = 5.0;
+	var saveScale = 7;
+	var maxScale = 5;
 	
 	/**
 	 * Function variables
